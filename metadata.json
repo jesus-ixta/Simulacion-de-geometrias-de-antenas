@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Electromagnético de Antenas AM/FM - Laboratorio Virtual ETF-1026",
+  "description": "Laboratorio virtual interactivo de Teoría Electromagnética para el diseño, análisis de impedancia, ROE y patrones de radiación 2D/3D de antenas FM y AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
